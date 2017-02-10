@@ -45,13 +45,6 @@
 
 
 
-## jQuery dependency
-
-- ### Zoom.js
-  Medium's Image Zoom for jQuery  
-  https://github.com/fat/zoom.js
-
-
 ## Untested  
 
 - ### Flow.js
@@ -64,3 +57,12 @@
   > Untested but very promising  
 
   https://github.com/skidding/dragdealer
+  
+  
+## jQuery dependency  
+
+- ### 
+
+- ### Zoom.js
+  Medium's Image Zoom for jQuery  
+  https://github.com/fat/zoom.js
