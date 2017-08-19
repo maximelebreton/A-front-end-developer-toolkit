@@ -38,14 +38,17 @@
   https://github.com/chrisbateman/impetus
 
 
+- ### PhotoSwipe
+  JavaScript image gallery for mobile and desktop.
+  https://github.com/dimsemenov/PhotoSwipe
+
+
+## Untested  
+
 - ### Sass burger
   A Sass mixin for creating hamburger icons.  
   https://github.com/jorenvanhee/sass-burger
 
-
-
-
-## Untested  
 
 - ### Flow.js
   A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.  
