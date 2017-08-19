@@ -39,7 +39,7 @@
 
 
 - ### PhotoSwipe
-  JavaScript image gallery for mobile and desktop.
+  JavaScript image gallery for mobile and desktop.  
   https://github.com/dimsemenov/PhotoSwipe
 
 
